@@ -4,6 +4,10 @@
 a = int(input())
 b = int(input())
 c = int(input())
+
+
 def bb(arg):
     return arg*arg
-print(a + b +c)
+
+
+print(a + b + c)
