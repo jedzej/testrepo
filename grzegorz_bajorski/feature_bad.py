@@ -4,6 +4,7 @@
 a = int(input())
 b = int(input())
 c = int(input())
+max(1,1)
 min(1,1)
 
 def bb(arg):
