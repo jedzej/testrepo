@@ -6,7 +6,7 @@ b = int(input())
 c = int(input())
 
 min(1,1)
-
+max(1 ,2)
 def bb(arg):
     return arg*arg
 print(a + b +c)
