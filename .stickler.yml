@@ -2,3 +2,6 @@ linters:
     flake8:
         max-line-length: 79
         fixer: false
+    pep8:
+        max-line-length: 79
+        fixer: false
