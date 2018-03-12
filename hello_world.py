@@ -12,7 +12,8 @@ the variable holds '__main__' string.
 
 def main():
     print('Hello world!')
-	line="line"
+	line ="line"
+	
 	print(line, sep='')
 
 if __name__ == '__main__':
