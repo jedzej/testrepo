@@ -12,7 +12,8 @@ the variable holds '__main__' string.
 
 def main():
     print('Hello world!')
-
+	line="line"
+	print(line, sep='')
 
 if __name__ == '__main__':
     # `python hello_world.py` will run main(), `import hello_world` will not
